@@ -1,7 +1,7 @@
 :root {
   --text-primary: #000;
   --bgPrimary: #fff;
-  --bgSecondary: #f9f9f9;
+  --bgSecondary: #ffffff;
   --pink: #0071bd;
   --light-blue: #e6f7ff;
   --border: #d9d9d9;
@@ -16,7 +16,12 @@
 a:hover {
   color: var(--pink) !important;
 }
-
+.red-text {
+  color: red;
+}
+.green-text {
+  color: green;
+}
 .app {
   display: flex;
   overflow: hidden;
@@ -67,7 +72,7 @@ a:hover {
 }
 
 .loader {
-  height: 81vh;
+  height: 88vh;
   display: flex;
   justify-content: center;
   align-items: center;
