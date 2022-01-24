@@ -18,7 +18,7 @@ const App = () => (
       <Navbar />
     </div>
     <div className="main">
-      <Layout>
+      <Layout style={{ minHeight: "88vh" }}>
         <div className="routes">
           <Switch>
             <Route exact path="/">
