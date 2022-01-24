@@ -1,5 +1,7 @@
 # Cryptovdata - Explore the most famous cryptocurrencies
 
+### [Click here for live preview](https://cryptodata-react.netlify.app/)
+
 ![Cryptodata](https://i.postimg.cc/FsW-Km8Cv/Screenshot-2022-01-25-001147.png9)
 
 ## Getting Started with Create React App
