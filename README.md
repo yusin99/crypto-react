@@ -1,6 +1,6 @@
 # Cryptovdata - Explore the most famous cryptocurrencies
 
-![Cryptodata](https://ibb.co/tDLSbv4)
+![Cryptodata](https://i.postimg.cc/FsW-Km8Cv/Screenshot-2022-01-25-001147.png9)
 
 ## Getting Started with Create React App
 
