@@ -1,4 +1,4 @@
-# Cryptovdata - Explore the most famous cryptocurrencies
+# Cryptodata - Explore the most famous cryptocurrencies
 
 ### [Click here for live preview](https://cryptodata-react.netlify.app/)
 
